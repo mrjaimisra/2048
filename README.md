@@ -1,6 +1,8 @@
 # Game Time - 2048
 
-## Sebastian Abondano [github](https://github.com/sabondano/2048)
+## Jai Misra [github](https://github.com/mrjaimisra/2048)
+
+[2048](mrjaimisra.github.io/2048)
 
 Description
 ===========
