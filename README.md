@@ -1,13 +1,10 @@
-# Game Time - 2048
+## Game Time - 2048
 
-## Jai Misra [github](https://github.com/mrjaimisra/2048)
-
-[2048](mrjaimisra.github.io/2048)
-
-Description
-===========
+#### Description
 
 A clone of the popular game 2048.
+
+Play [2048](mrjaimisra.github.io/2048)
 
 ===========
 
