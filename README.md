@@ -1,10 +1,8 @@
 ## Game Time - 2048
 
-#### Description
+### [Play Now] (mrjaimisra.github.io/2048)
 
-A clone of the popular game 2048.
-
-Play [2048](mrjaimisra.github.io/2048)
+(A clone of the popular game [2048](https://gabrielecirulli.github.io/2048))
 
 ===========
 
