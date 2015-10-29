@@ -1,4 +1,13 @@
-# Game Time Starter Kit
+# Game Time - 2048
+
+## Sebastian Abondano [github](https://github.com/sabondano/2048)
+
+Description
+===========
+
+A clone of the popular game 2048.
+
+===========
 
 To install the dependencies:
 
