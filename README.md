@@ -1,4 +1,15 @@
-# Game Time Starter Kit
+# Game Time - 2048
+
+## Jai Misra [github](https://github.com/mrjaimisra/2048)
+
+[2048](mrjaimisra.github.io/2048)
+
+Description
+===========
+
+A clone of the popular game 2048.
+
+===========
 
 To install the dependencies:
 
