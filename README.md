@@ -1,4 +1,10 @@
-# Game Time Starter Kit
+## Game Time - 2048
+
+### [Play Now] (mrjaimisra.github.io/2048)
+
+(A clone of the popular game [2048](https://gabrielecirulli.github.io/2048))
+
+===========
 
 To install the dependencies:
 
