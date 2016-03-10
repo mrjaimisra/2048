@@ -2,7 +2,7 @@
 
 ### [Play Now] (mrjaimisra.github.io/2048)
 
-(A clone of the popular game [2048](https://gabrielecirulli.github.io/2048))
+(Inspired by the popular game [2048](https://gabrielecirulli.github.io/2048))
 
 ===========
 
